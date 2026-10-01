@@ -1,1 +1,2 @@
 date,task_type,model,reasoning_effort,approx_allowance_before,approx_allowance_after,succeeded,retries,specialist_calls,notes
+2026-10-02,skill-workflow-maintenance,unknown,unknown,unknown,unknown,true,0,0,"SEO and MSP instructions revised; skill/config checks and local parity verified; runtime speed not measured"

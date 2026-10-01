@@ -1,4 +1,4 @@
 interface:
-  display_name: MSP Troubleshooter
-  short_description: Focused IT and MSP troubleshooting
-  default_prompt: Use $msp-troubleshooter for methodical IT/MSP diagnosis and one-next-test troubleshooting.
+  display_name: "MSP Troubleshooter"
+  short_description: "Evidence-led IT diagnosis and authorized repairs"
+  default_prompt: "Use $msp-troubleshooter to diagnose the IT incident, complete authorized repairs, and verify recovery."
