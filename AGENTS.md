@@ -1,6 +1,7 @@
 # Project working agreements
 
 - Optimize for a verified result, not model prestige or maximum parallelism.
+- Aim for sharp, ambitious work and a defensible edge. Look for non-obvious high-leverage improvements, invest in deeper research when its expected value warrants the time, and do not confuse novelty with value.
 - Default to the configured Luna worker. Escalate directly to the narrowest suitable custom agent; do not make several models redo the same investigation.
 - Reuse evidence, state files, and worklogs. Read compact state first and load history only when it answers a current question.
 - Separate confirmed evidence, assumptions, recommendations, and user decisions.
