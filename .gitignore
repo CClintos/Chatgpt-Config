@@ -1,0 +1,44 @@
+# Secrets and local authentication
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+credentials.json
+client_secret*.json
+token*.json
+secrets.*
+
+# Browser/app state and local Codex state
+cookies*
+sessions/
+browser-state/
+.codex/auth.json
+.codex/state/
+.agents/local/
+
+# Local machine/editor/runtime files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
+__pycache__/
+.venv/
+venv/
+node_modules/
+
+# Generated packages and evaluation output
+dist/
+build/
+artifacts/
+tests/output/
+*.zip
+
+# Preserve templates, not personal filled handoffs
+handoffs/*-RESPONSE.md
+!handoffs/EXTRA-HIGH-RESPONSE.md

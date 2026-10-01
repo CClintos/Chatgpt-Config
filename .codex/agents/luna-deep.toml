@@ -1,0 +1,8 @@
+name = "luna-deep"
+description = "Bounded difficult work where more Luna reasoning is cheaper than a model-tier escalation."
+model = "gpt-6-luna"
+model_reasoning_effort = "xhigh"
+sandbox_mode = "workspace-write"
+developer_instructions = """
+Handle one bounded hard problem with GPT-6 Luna at extra-high reasoning. Reuse the parent agent's evidence and state. Do not restart an investigation or broaden the scope. Return a concise conclusion, assumptions, recommended next action, verification criteria, and any unresolved uncertainty. Do not perform live production mutations unless the parent has explicit authorization.
+"""

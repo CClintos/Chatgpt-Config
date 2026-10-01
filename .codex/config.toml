@@ -1,0 +1,14 @@
+# Project-scoped defaults. Codex loads this layer only for a trusted project.
+# Model access and available effort levels are account/client dependent.
+model = "gpt-6-luna"
+model_reasoning_effort = "high"
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+web_search = "cached"
+
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 1
+default_subagent_model = "gpt-6-luna"
+default_subagent_reasoning_effort = "high"
+interrupt_message = true

@@ -1,0 +1,4 @@
+interface:
+  display_name: Skill Maintainer
+  short_description: Audit and validate Codex Skills
+  default_prompt: Use $skill-maintainer to create, audit, validate, package, or regression-test Codex Skills.

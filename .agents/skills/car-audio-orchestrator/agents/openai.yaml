@@ -1,0 +1,4 @@
+interface:
+  display_name: Car Audio Orchestrator
+  short_description: Lightweight evidence-led REW and DSP orchestration
+  default_prompt: Use $car-audio-orchestrator for REW, UMIK-1, DSP, crossover, phase, time-alignment, or car-audio measurement work.

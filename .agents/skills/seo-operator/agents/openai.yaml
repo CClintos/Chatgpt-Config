@@ -1,0 +1,4 @@
+interface:
+  display_name: SEO Operator
+  short_description: Evidence-first technical SEO and search operations
+  default_prompt: Use $seo-operator for evidence-first SEO, Search Console, indexing, crawlability, schema, redirects, WordPress, or cPanel work.
