@@ -9,5 +9,5 @@
 - Keep project state concise. Do not put credentials, cookies, tokens, browser sessions, or client secrets in this repository.
 - Treat production mutations, live SEO changes, security cleanup, and irreversible DSP changes as approval-sensitive; a plan or review is not permission.
 - Use one-line PowerShell commands in user-facing troubleshooting unless a script is clearer.
-- For troubleshooting, give one best next action or test at a time, then wait for the result.
+- For troubleshooting, give a ranked diagnosis and practical next actions. Use one action at a time only when waiting for user-provided evidence is genuinely necessary; otherwise continue safe read-only or reversible work and explain the available improvement paths.
 - If a task would benefit from normal ChatGPT Extra High planning, prepare the handoff template instead of claiming automatic access to ChatGPT allowance.
